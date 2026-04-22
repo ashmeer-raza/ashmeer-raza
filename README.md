@@ -1,5 +1,11 @@
 # 💫 About Me:
- I'm currently working on<br>Building full-stack web apps with React, Next.js & Node.js, and my Fake Currency Detection deep learning project<br> I'm looking to collaborate on<br>Full-stack MERN projects, open-source tools, and AI/ML-integrated web applications<br> I'm looking for help with<br>Advanced system design patterns and scaling Node.js backend architectures<br> I'm currently learning<br>TypeScript, advanced React patterns, and deep learning model optimization<br> Ask me about<br>MERN stack development, REST APIs, CNN-based deep learning, or anything JavaScript<br> Fun fact<br>I built a fake currency detector with 98.5% accuracy that runs in real-time at under 500ms latency using a webcam!
+ Hi, I’m Ashmeer Raza, a results driven Full Stack Web Developer specializing in building high performance, scalable web applications using modern JavaScript technologies.
+
+I have hands on experience with React.js, Redux, and Tailwind CSS for crafting intuitive, responsive user interfaces, along with Node.js and Express.js for developing robust backend systems and RESTful APIs. I work confidently with databases like MongoDB and MySQL, and I follow clean coding practices backed by a solid understanding of Data Structures, Algorithms, and Object Oriented Programming.
+
+Beyond development, I also leverage Python libraries such as Pandas and NumPy for data analysis, which helps me bring a more analytical approach to problem solving.
+
+I’m passionate about writing efficient, maintainable code and continuously improving my skills. As a fresher, I’m eager to contribute to impactful projects, collaborate with experienced teams, and grow into a highly skilled full-stack engineer.
 
 
 ## 🌐 Socials:
