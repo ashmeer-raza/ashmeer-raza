@@ -251,17 +251,11 @@ while (learning) {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmeer-raza&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
   <img src="./assets/github-streak.svg" alt="GitHub Contribution Streak"/>
 </p>
 
----
-
-# 📈 Contribution Graph
 
 <p align="center">
   <img src="./assets/github-contribution-graph.svg" alt="GitHub Contribution Graph"/>
@@ -285,7 +279,7 @@ I'm interested in opportunities related to:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashmeer-raza/ashmeer-raza/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/ashmeer-raza/ashmeer-raza/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <p align="center">
