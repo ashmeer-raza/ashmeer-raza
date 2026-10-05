@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  Building web applications, learning new technologies, and helping students understand programming through practical development.
+  Building web applications, learning new technologies.
 </p>
 
 <p align="center">
   <a href="https://github.com/ashmeer-raza">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/ashmeer-raza-563b1a284/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
 </p>
@@ -25,7 +25,7 @@
 * 🏫 Savitribai Phule Pune University — **2025**
 * 👨‍🏫 Currently working as a **Lecturer**
 * 💻 Previously worked as a **Software Engineer**
-* 🌐 Interested in **Full Stack Development, Web Development & AI/ML**
+* 🌐 Interested in **Full Stack Development, System Design & AI/ML**
 * ⚛️ Building applications with **React.js, Next.js and JavaScript**
 * 🟢 Working with **Node.js, Express.js, REST APIs and Databases**
 * 🧠 Strong interest in **DSA, OOP and Problem Solving**
@@ -46,7 +46,7 @@
 * Helping students improve programming logic and structured problem-solving skills.
 * Connecting programming concepts with real-world software development practices.
 
-### 💻 Software Engineer
+### 💻 Web Development Intern
 
 **Mindtrail Technologies**
 
@@ -70,17 +70,6 @@ A final-year AI/ML project for detecting fake currency using deep learning and C
 
 **Technologies:**
 `Python` `TensorFlow` `CNN` `VGG16` `VGG19` `MobileNet` `ResNet`
-
----
-
-### 🛒 Amazon Web Clone
-
-A frontend e-commerce website inspired by Amazon, developed to practice modern frontend development and responsive UI design.
-
-**Technologies:**
-`React.js` `JavaScript` `CSS` `HTML`
-
-🔗 [View Repository](https://github.com/meer7202/Amazon-Web-Clone)
 
 ---
 
@@ -133,6 +122,17 @@ A collection of React projects created while learning and practicing React conce
 A project focused on fetching and displaying API data using React.
 
 🔗 [Data Fetching with React](https://github.com/ashmeer-raza/Data-Fetching-with-React)
+
+---
+
+### 🛒 Amazon Web Clone
+
+A frontend e-commerce website inspired by Amazon, developed to practice modern frontend development and responsive UI design.
+
+**Technologies:**
+`React.js` `JavaScript` `CSS` `HTML`
+
+🔗 [View Repository](https://github.com/meer7202/Amazon-Web-Clone)
 
 ---
 
