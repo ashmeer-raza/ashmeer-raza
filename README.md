@@ -7,12 +7,11 @@ Beyond development, I also leverage Python libraries such as Pandas and NumPy fo
 
 I’m passionate about writing efficient, maintainable code and continuously improving my skills. As a fresher, I’m eager to contribute to impactful projects, collaborate with experienced teams, and grow into a highly skilled full-stack engineer.
 
----
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashmeer.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashmeer-raza-563b1a284) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashmeerraza2003@gmail.com) 
 
----
+
 
 # 💻 Tech Stack
 
@@ -62,19 +61,17 @@ I’m passionate about writing efficient, maintainable code and continuously imp
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ashmeer-raza&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ashmeer-raza&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashmeer-raza&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ashmeer-raza&limit=5&theme=dark&combine_all_yearly_contributions=true)
