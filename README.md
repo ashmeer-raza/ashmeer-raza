@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashmeer Raza</h1>
 
 <p align="center">
-  <b>Software Engineer | Full Stack Developer | Lecturer</b>
+  <b>Software Engineer</b>
 </p>
 
 <p align="center">
@@ -280,10 +280,29 @@ I'm interested in opportunities related to:
 * 🤖 AI/ML Development
 * 🚀 Web Development
 
-<p align="center">
-  <b>Thanks for visiting my GitHub profile! 👋</b>
-</p>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ashmeer-raza/ashmeer-raza/output/github-contribution-grid-snake-dark.svg">
+  <!-- <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ashmeer-raza/ashmeer-raza/output/github-contribution-grid-snake.svg"> -->
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/ashmeer-raza/ashmeer-raza/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/ashmeer-raza/ashmeer-raza/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p> -->
 
 <p align="center">
   ⭐ Feel free to explore my repositories and projects.
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my GitHub profile! 👋</b>
 </p>
