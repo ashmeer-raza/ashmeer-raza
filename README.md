@@ -247,14 +247,8 @@ while (learning) {
 # 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ashmeer-raza&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmeer-raza&layout=compact&theme=dark&hide_border=true"
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashmeer-raza&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmeer-raza&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
 ---
@@ -262,20 +256,15 @@ while (learning) {
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=ashmeer-raza&theme=dark"
-    alt="GitHub Streak"
-  />
+  <img src="./assets/github-streak.svg" alt="GitHub Contribution Streak"/>
 </p>
+
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ashmeer-raza&theme=github-compact&hide_border=true"
-    alt="GitHub Contribution Graph"
-  />
+  <img src="./assets/github-contribution-graph.svg" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
@@ -292,23 +281,12 @@ I'm interested in opportunities related to:
 * 🚀 Web Development
 
 
+
 ## 🐍 Contribution Snake
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ashmeer-raza/ashmeer-raza/output/github-contribution-grid-snake-dark.svg">
-  <!-- <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ashmeer-raza/ashmeer-raza/output/github-contribution-grid-snake.svg"> -->
-  <img
-    alt="github contribution snake"
-    src="https://raw.githubusercontent.com/ashmeer-raza/ashmeer-raza/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!-- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/ashmeer-raza/ashmeer-raza/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p> -->
+</p>
 
 <p align="center">
   ⭐ Feel free to explore my repositories and projects.
