@@ -247,8 +247,14 @@ while (learning) {
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashmeer-raza&show_icons=true&hide_border=false&theme=dark&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmeer-raza&layout=compact&hide_border=false&theme=dark" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ashmeer-raza&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmeer-raza&layout=compact&theme=dark&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
@@ -256,15 +262,20 @@ while (learning) {
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashmeer-raza&theme=dark" />
+  <img
+    src="https://streak-stats.demolab.com/?user=ashmeer-raza&theme=dark"
+    alt="GitHub Streak"
+  />
 </p>
-
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmeer-raza&theme=github-dark&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ashmeer-raza&theme=github-compact&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
